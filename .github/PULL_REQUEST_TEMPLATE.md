@@ -5,8 +5,13 @@
 -
 
 ## 🧪 How is this tested?
-- 
 
+
+## Development Checklist
+
+- [ ] Code documentation (functions, classes, examples)
+- [ ] Tests
+ 
 # 🗒️ Release notes
 
 ### User-facing change?
