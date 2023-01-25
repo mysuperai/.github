@@ -11,6 +11,8 @@
 
 - [ ] Code documentation (functions, classes, examples)
 - [ ] Tests
+- [ ] PR title with correct [format](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format)?
+- [ ] Is this a breaking change? If yes, include `BREAKING CHANGE` in your PR/commit [text](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#commit-message-footer).
  
 # 🗒️ Release notes
 
