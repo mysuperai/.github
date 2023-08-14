@@ -1,15 +1,12 @@
-# Technical notes
-## 🛠 Changes
+# 🚀 Motivation (Why is this PR needed?)
 
--
--
+# 🛠 Changes
 
-## 🧪 How is this tested?
+# 🧪 Testing
 
+# Development Checklist
 
-## Development Checklist
-
-- [ ] Code documentation (functions, classes, examples)
+- [ ] Documentation
 - [ ] Tests
  
 # 🗒️ Release notes
