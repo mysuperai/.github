@@ -1,15 +1,12 @@
-# Technical notes
-## 🛠 Changes
+# 🚀 Motivation (Why is this PR needed?)
 
--
--
+# 🛠 Changes
 
-## 🧪 How is this tested?
+# 🧪 Testing
 
+# Development Checklist
 
-## Development Checklist
-
-- [ ] Code documentation (functions, classes, examples)
+- [ ] Documentation
 - [ ] Tests
 - [ ] PR title with correct [format](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format)?
 - [ ] Is this a breaking change? If yes, include `BREAKING CHANGE` in your PR/commit [text](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#commit-message-footer).
